@@ -1,0 +1,656 @@
+[
+  {
+    "frequency": 5.421202,
+    "word": "solemn",
+    "hint": "adj\t(religion, specifically Christianity) Of or pertaining to religious ceremonies and rites; (generally) religious in nature; sacred. ",
+    "scramble": "lnomse"
+  },
+  {
+    "frequency": 3.305498,
+    "word": "ardent",
+    "hint": "adj\tFull of ardor; expressing passion, spirit, or enthusiasm. ",
+    "scramble": "rendta"
+  },
+  {
+    "frequency": 2.550376,
+    "word": "shrewd",
+    "hint": "adj\tShowing clever resourcefulness in practical matters. ",
+    "scramble": "sdhwre"
+  },
+  {
+    "frequency": 7.045054,
+    "word": "potent",
+    "hint": "adj\tPowerful; possessing power; effective. ",
+    "scramble": "nettop"
+  },
+  {
+    "frequency": 39.753418,
+    "word": "aspect",
+    "hint": "n\tAny specific feature, part, or element of something. ",
+    "scramble": "aetpcs"
+  },
+  {
+    "frequency": 2.267924,
+    "word": "apathy",
+    "hint": "n\tLack of emotion or motivation; lack of interest or enthusiasm towards something; disinterest (in something). ",
+    "scramble": "phyaat"
+  },
+  {
+    "frequency": 7.158134,
+    "word": "assert",
+    "hint": "v\tTo declare with assurance or plainly and strongly; to state positively. ",
+    "scramble": "sartse"
+  },
+  {
+    "frequency": 7.616764,
+    "word": "prompt",
+    "hint": "adj\tQuick; acting without delay. ",
+    "scramble": "pptrmo"
+  },
+  {
+    "frequency": 3.231666,
+    "word": "affirm",
+    "hint": "v\tTo agree, verify or concur; to answer positively. ",
+    "scramble": "fmiarf"
+  },
+  {
+    "frequency": 8.056019,
+    "word": "accord",
+    "hint": "n\tAgreement or concurrence of opinion, will, or action. ",
+    "scramble": "ccarod"
+  },
+  {
+    "frequency": 3.674293,
+    "word": "psyche",
+    "hint": "n\tThe human soul, mind, or spirit. ",
+    "scramble": "spcehy"
+  },
+  {
+    "frequency": 8.868876,
+    "word": "sorrow",
+    "hint": "n\t(uncountable) unhappiness, woe ",
+    "scramble": "rorows"
+  },
+  {
+    "frequency": 66.026999,
+    "word": "august",
+    "hint": "adj\tAwe-inspiring, majestic, noble, venerable. ",
+    "scramble": "gtusua"
+  },
+  {
+    "frequency": 9.173043,
+    "word": "assure",
+    "hint": "v\t(transitive) To make sure and secure; ensure. ",
+    "scramble": "searus"
+  },
+  {
+    "frequency": 2.076108,
+    "word": "acuity",
+    "hint": "n\tSharpness or acuteness, as of a needle, wit, etc. ",
+    "scramble": "ciutay"
+  },
+  {
+    "frequency": 9.031224,
+    "word": "attain",
+    "hint": "v\t(transitive) To gain (an object or desired result). ",
+    "scramble": "iattan"
+  },
+  {
+    "frequency": 22.841006,
+    "word": "sacred",
+    "hint": "adj\tCharacterized by solemn religious ceremony or religious use, especially, in a positive sense; consecrated, made holy. ",
+    "scramble": "esardc"
+  },
+  {
+    "frequency": 7.833173,
+    "word": "savage",
+    "hint": "adj\tWild; not cultivated or tamed. ",
+    "scramble": "aasvge"
+  },
+  {
+    "frequency": 3.727367,
+    "word": "plight",
+    "hint": "n\tA dire or unfortunate situation. ",
+    "scramble": "tplhig"
+  },
+  {
+    "frequency": 18.045649,
+    "word": "shadow",
+    "hint": "n\tA dark image projected onto a surface where light (or other radiation) is blocked by the shade of an object. ",
+    "scramble": "hdoasw"
+  },
+  {
+    "frequency": 55.193104,
+    "word": "proper",
+    "hint": "adj\tSuitable. ",
+    "scramble": "prrope"
+  },
+  {
+    "frequency": 5.425555,
+    "word": "patron",
+    "hint": "n\tOne who protects or supports; a defender or advocate. ",
+    "scramble": "rtoapn"
+  },
+  {
+    "frequency": 7.580264,
+    "word": "anchor",
+    "hint": "n\t(nautical) A tool used to moor a vessel to the bottom of a sea or river to resist movement. ",
+    "scramble": "ahrnco"
+  },
+  {
+    "frequency": 42.521689,
+    "word": "affect",
+    "hint": "v\t(transitive) To influence or alter. ",
+    "scramble": "teffac"
+  },
+  {
+    "frequency": 165.139071,
+    "word": "action",
+    "hint": "n\tThe effort of performing or doing something. ",
+    "scramble": "tniaco"
+  },
+  {
+    "frequency": 15.071653,
+    "word": "affair",
+    "hint": "n\t(often in the plural) Something which is done or is to be done; business of any kind, commercial, professional, or public. ",
+    "scramble": "raaffi"
+  },
+  {
+    "frequency": 2.214585,
+    "word": "poised",
+    "hint": "adj\tPossessing poise, having self-confidence. ",
+    "scramble": "peosdi"
+  },
+  {
+    "frequency": 2.933156,
+    "word": "assent",
+    "hint": "v\t(intransitive) To agree to a proposal. ",
+    "scramble": "astsen"
+  },
+  {
+    "frequency": 12.554978,
+    "word": "pursue",
+    "hint": "v\t(ambitransitive) To follow urgently, originally with intent to capture or harm; to chase. ",
+    "scramble": "supeur"
+  },
+  {
+    "frequency": 3.032968,
+    "word": "arouse",
+    "hint": "v\t(transitive) To stimulate or induce (feelings). ",
+    "scramble": "saeruo"
+  },
+  {
+    "frequency": 112.547177,
+    "word": "source",
+    "hint": "n\tThe person, place, or thing from which something (information, goods, etc.) comes or is acquired. ",
+    "scramble": "oucrse"
+  },
+  {
+    "frequency": 7.209452,
+    "word": "absurd",
+    "hint": "adj\tContrary to reason or propriety; obviously and flatly opposed to manifest truth; inconsistent with the plain dictates of common sense; logically contradictory; nonsensical; ridiculous; silly. ",
+    "scramble": "ubards"
+  },
+  {
+    "frequency": 5.10114,
+    "word": "shrine",
+    "hint": "n\tA holy or sacred place dedicated to a specific deity, ancestor, hero, martyr, saint, or similar figure of awe and respect, at which said figure is venerated or worshipped. ",
+    "scramble": "enirhs"
+  },
+  {
+    "frequency": 75.479742,
+    "word": "active",
+    "hint": "adj\tHaving the power or quality of acting; causing change; communicating action or motion; acting;—opposed to passive, that receives. ",
+    "scramble": "aectiv"
+  },
+  {
+    "frequency": 38.860199,
+    "word": "agency",
+    "hint": "n\tThe capacity, condition, or state of acting or of exerting power. ",
+    "scramble": "ecgyan"
+  },
+  {
+    "frequency": 34.341063,
+    "word": "scheme",
+    "hint": "n\t(rhetoric, obsolete) An artful deviation from the ordinary arrangement of words. ",
+    "scramble": "hceems"
+  },
+  {
+    "frequency": 18.987466,
+    "word": "attend",
+    "hint": "v\tSenses relating to caring for or waiting on someone, or accompanying or being present. ",
+    "scramble": "ndtaet"
+  },
+  {
+    "frequency": 2.778359,
+    "word": "parlor",
+    "hint": "n\t(dated outside Mid-Atlantic US) The living room of a house, or a room for entertaining guests; a room for talking; a sitting-room or drawing room. ",
+    "scramble": "lrapor"
+  },
+  {
+    "frequency": 2.426058,
+    "word": "atrium",
+    "hint": "n\t(architecture) A central room or space in ancient Roman homes, open to the sky in the middle; a similar space in other buildings. ",
+    "scramble": "irutam"
+  },
+  {
+    "frequency": 2.887531,
+    "word": "shrink",
+    "hint": "v\t(transitive) To cause to become smaller. ",
+    "scramble": "skhnri"
+  },
+  {
+    "frequency": 7.453663,
+    "word": "scarce",
+    "hint": "adj\t(chiefly of resources, such as food) Uncommon, rare; difficult to find; insufficient to meet a demand. ",
+    "scramble": "scearc"
+  },
+  {
+    "frequency": 6.179413,
+    "word": "advise",
+    "hint": "v\t(transitive) To give advice to; to offer an opinion to, as worthy or expedient to be followed. ",
+    "scramble": "esivda"
+  },
+  {
+    "frequency": 3.777063,
+    "word": "parity",
+    "hint": "n\t(uncountable) Equality; comparability of strength or intensity. ",
+    "scramble": "pratyi"
+  },
+  {
+    "frequency": 3.7431,
+    "word": "adhere",
+    "hint": "v\t(intransitive) To stick fast or cleave, as a glutinous substance does; to become joined or united. ",
+    "scramble": "adeerh"
+  },
+  {
+    "frequency": 30.190603,
+    "word": "appeal",
+    "hint": "n\t(law) ",
+    "scramble": "appale"
+  },
+  {
+    "frequency": 6.109207,
+    "word": "absorb",
+    "hint": "v\t(transitive) To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up. ",
+    "scramble": "sobarb"
+  },
+  {
+    "frequency": 16.48327,
+    "word": "praise",
+    "hint": "n\tCommendation; favourable representation in words. ",
+    "scramble": "eprsia"
+  },
+  {
+    "frequency": 35.577957,
+    "word": "pretty",
+    "hint": "adj\tPleasant to the sight or other senses; attractive, especially of women or children. ",
+    "scramble": "ptrtye"
+  },
+  {
+    "frequency": 5.160449,
+    "word": "passim",
+    "hint": "adv\tThroughout (used in citations to indicate that something, as a word, phrase, or idea, is to be found at many places throughout the work cited). ",
+    "scramble": "apisms"
+  },
+  {
+    "frequency": 4.583796,
+    "word": "analog",
+    "hint": "adj\t(of a device or system) In which the value of a data item (such as time) is represented by a continuous(ly) variable physical quantity that can be measured (such as the shadow of a sundial). ",
+    "scramble": "oagnla"
+  },
+  {
+    "frequency": 95.014088,
+    "word": "answer",
+    "hint": "n\tA response or reply; something said or done in reaction to a statement or question. ",
+    "scramble": "anesrw"
+  },
+  {
+    "frequency": 49.634039,
+    "word": "accept",
+    "hint": "v\t(transitive) To receive, especially with a consent, with favour, or with approval. ",
+    "scramble": "eccpat"
+  },
+  {
+    "frequency": 5.826057,
+    "word": "accent",
+    "hint": "n\t(linguistics) A higher-pitched or stronger (louder or longer) articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it. ",
+    "scramble": "accten"
+  },
+  {
+    "frequency": 4.334154,
+    "word": "scream",
+    "hint": "n\tA loud, emphatic, exclamation of extreme emotion, especially horror, fear, excitement, or anger; it may comprise a word or a sustained, high-pitched vowel sound. ",
+    "scramble": "scarme"
+  },
+  {
+    "frequency": 4.417449,
+    "word": "abrupt",
+    "hint": "adj\t(obsolete, rare) Broken away (from restraint). ",
+    "scramble": "bruatp"
+  },
+  {
+    "frequency": 187.783766,
+    "word": "period",
+    "hint": "n\tA length of time. ",
+    "scramble": "peiodr"
+  },
+  {
+    "frequency": 5.68483,
+    "word": "portal",
+    "hint": "n\tAn entrance, entry point, or means of entry. ",
+    "scramble": "roatpl"
+  },
+  {
+    "frequency": 3.887519,
+    "word": "satire",
+    "hint": "n\t(uncountable) A literary device of writing or art which principally ridicules its subject often as an intended means of provoking or preventing change or highlighting a shortcoming in the work of another. Imitation, humor, irony, and exaggeration are often used to aid this. ",
+    "scramble": "teasri"
+  },
+  {
+    "frequency": 2.194571,
+    "word": "parody",
+    "hint": "n\tA work or performance that imitates another work or performance with ridicule or irony. ",
+    "scramble": "adypor"
+  },
+  {
+    "frequency": 2.386185,
+    "word": "plunge",
+    "hint": "v\t(transitive) To thrust into liquid, or into any penetrable substance; to immerse. ",
+    "scramble": "nuelpg"
+  },
+  {
+    "frequency": 17.258692,
+    "word": "absent",
+    "hint": "adj\t(not comparable) Being away from a place; withdrawn from a place; existing but not present; (sometimes) missing. ",
+    "scramble": "eanbts"
+  },
+  {
+    "frequency": 2.306263,
+    "word": "primal",
+    "hint": "adj\tBeing the first in time or in history. ",
+    "scramble": "mirpal"
+  },
+  {
+    "frequency": 38.353847,
+    "word": "sought",
+    "hint": "adj\tbeing searched for",
+    "scramble": "oguths"
+  },
+  {
+    "frequency": 6.011753,
+    "word": "advent",
+    "hint": "n\tArrival; onset; a time when something first comes or appears. ",
+    "scramble": "andtve"
+  },
+  {
+    "frequency": 10.50701,
+    "word": "adjust",
+    "hint": "v\t(transitive) To modify. ",
+    "scramble": "tsujda"
+  },
+  {
+    "frequency": 5.273822,
+    "word": "parade",
+    "hint": "n\tAn organized display of a group of people, particularly ",
+    "scramble": "edarap"
+  },
+  {
+    "frequency": 92.09219,
+    "word": "appear",
+    "hint": "v\t(intransitive) To come or be in sight; to be in view; to become visible. ",
+    "scramble": "earppa"
+  },
+  {
+    "frequency": 31.569042,
+    "word": "afraid",
+    "hint": "adj\tImpressed with fear or apprehension; in fear. ",
+    "scramble": "arfiad"
+  },
+  {
+    "frequency": 2.257879,
+    "word": "awaken",
+    "hint": "v\t(transitive) To cause to become awake. ",
+    "scramble": "awneak"
+  },
+  {
+    "frequency": 54.710199,
+    "word": "attack",
+    "hint": "n\tAn attempt to cause damage, injury to, or death of an opponent or enemy. ",
+    "scramble": "kactta"
+  },
+  {
+    "frequency": 3.736397,
+    "word": "palate",
+    "hint": "n\t(anatomy) The roof of the mouth, separating the cavities of the mouth and nose in vertebrates. ",
+    "scramble": "aeltap"
+  },
+  {
+    "frequency": 4.12253,
+    "word": "pledge",
+    "hint": "v\tTo make a solemn promise (to do something). ",
+    "scramble": "elgped"
+  },
+  {
+    "frequency": 32.255802,
+    "word": "advice",
+    "hint": "n\t(uncountable) An opinion offered to guide behavior in an effort to be helpful. ",
+    "scramble": "idcave"
+  },
+  {
+    "frequency": 3.864357,
+    "word": "asylum",
+    "hint": "n\tA place of safety or refuge. ",
+    "scramble": "alsmyu"
+  },
+  {
+    "frequency": 8.59767,
+    "word": "purity",
+    "hint": "n\tThe state or degree of being pure. ",
+    "scramble": "ryitup"
+  },
+  {
+    "frequency": 67.992766,
+    "word": "access",
+    "hint": "n\t(uncountable) A way or means of approaching or entering; an entrance; a passage. ",
+    "scramble": "esscca"
+  },
+  {
+    "frequency": 41.549234,
+    "word": "assume",
+    "hint": "v\tTo authenticate by means of belief; to surmise; to suppose to be true, especially without proof ",
+    "scramble": "amesus"
+  },
+  {
+    "frequency": 4.603303,
+    "word": "admire",
+    "hint": "v\t(obsolete, transitive) To be amazed at; to view with surprise; to marvel at. ",
+    "scramble": "rediam"
+  },
+  {
+    "frequency": 2.231364,
+    "word": "scenic",
+    "hint": "adj\thaving beautiful scenery; picturesque ",
+    "scramble": "nisecc"
+  },
+  {
+    "frequency": 13.200307,
+    "word": "patent",
+    "hint": "n\t(law) ",
+    "scramble": "attenp"
+  },
+  {
+    "frequency": 3.640497,
+    "word": "pillar",
+    "hint": "n\t(architecture) A large post, often used as supporting architecture. ",
+    "scramble": "llirap"
+  },
+  {
+    "frequency": 6.86932,
+    "word": "assign",
+    "hint": "v\t(transitive) To designate or set apart (something) for some purpose. ",
+    "scramble": "anisgs"
+  },
+  {
+    "frequency": 22.870046,
+    "word": "permit",
+    "hint": "v\t(transitive) To allow (something) to happen, to give permission for. ",
+    "scramble": "rmeipt"
+  },
+  {
+    "frequency": 4.494294,
+    "word": "aerial",
+    "hint": "adj\tLiving or taking place in the air. ",
+    "scramble": "realia"
+  },
+  {
+    "frequency": 357.519516,
+    "word": "social",
+    "hint": "adj\tBeing extroverted or outgoing. ",
+    "scramble": "iclosa"
+  },
+  {
+    "frequency": 9.006441,
+    "word": "softly",
+    "hint": "adv\tIn a soft manner; gently. ",
+    "scramble": "ytflos"
+  },
+  {
+    "frequency": 2.315488,
+    "word": "savior",
+    "hint": "n\tA person who saves someone, rescues another from harm. ",
+    "scramble": "ivoasr"
+  },
+  {
+    "frequency": 3.410444,
+    "word": "soaked",
+    "hint": "adj\tDrenched with water, or other liquid. ",
+    "scramble": "kseoda"
+  },
+  {
+    "frequency": 3.435267,
+    "word": "parcel",
+    "hint": "n\tA package wrapped for shipment. ",
+    "scramble": "parlce"
+  },
+  {
+    "frequency": 64.462174,
+    "word": "author",
+    "hint": "n\tThe originator or creator of a work, especially of a literary composition; or, one of the creators of a collaborative work. ",
+    "scramble": "rohtua"
+  },
+  {
+    "frequency": 3.202313,
+    "word": "scotch",
+    "hint": "n\tA surface cut or abrasion. ",
+    "scramble": "tccsho"
+  },
+  {
+    "frequency": 2.19934,
+    "word": "saloon",
+    "hint": "n\t(US) A tavern, especially in an American Old West setting. ",
+    "scramble": "nosalo"
+  },
+  {
+    "frequency": 5.284041,
+    "word": "polite",
+    "hint": "adj\tWell-mannered, civilized. ",
+    "scramble": "ioptle"
+  },
+  {
+    "frequency": 31.939502,
+    "word": "pulled",
+    "hint": "adj\tOf cooked meat, prepared by being torn into fine pieces. ",
+    "scramble": "ldlupe"
+  },
+  {
+    "frequency": 2.074078,
+    "word": "axioms",
+    "hint": "N\ta peer-reviewed open access scientific journal that focuses on all aspects of mathematics, mathematical logic and mathematical physics.  ",
+    "scramble": "saoxim"
+  },
+  {
+    "frequency": 6.289036,
+    "word": "saddle",
+    "hint": "n\tA seat for a rider, typically made of leather and raised in the front and rear, placed on the back of a horse or other animal, and secured by a strap around the animal's body. ",
+    "scramble": "aseddl"
+  },
+  {
+    "frequency": 29.680707,
+    "word": "profit",
+    "hint": "n\t(accounting, economics) Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price. ",
+    "scramble": "tproif"
+  },
+  {
+    "frequency": 8.415011,
+    "word": "purple",
+    "hint": "n\tA colour between red and blue; violet, though often closer to magenta. ",
+    "scramble": "elprup"
+  },
+  {
+    "frequency": 11.214966,
+    "word": "parish",
+    "hint": "n\t(Anglicanism, Eastern Orthodoxy, Lutheranism, Roman Catholicism) An administrative part of a diocese that has its own church. ",
+    "scramble": "irsaph"
+  },
+  {
+    "frequency": 12.477463,
+    "word": "agenda",
+    "hint": "n\tA temporally organized plan for matters to be attended to. ",
+    "scramble": "enaagd"
+  },
+  {
+    "frequency": 3.161032,
+    "word": "ascent",
+    "hint": "n\tThe act of ascending; a motion upwards. ",
+    "scramble": "seatnc"
+  },
+  {
+    "frequency": 4.631871,
+    "word": "amazed",
+    "hint": "adj\tAstonished or confounded with fear, surprise, or wonder; greatly surprised (often with ensuing adpositions e.g. at, with, or by). ",
+    "scramble": "azeamd"
+  },
+  {
+    "frequency": 2.989745,
+    "word": "primer",
+    "hint": "n\t(historical, Catholicism ecclesiastical) A prayer or devotional book intended for laity, initially an abridgment of the breviary and manual including the hours of the Virgin Mary, 15 gradual and 7 penitential psalms, the litany, the placebo and dirige forming the office of the dead, and the commendations. ",
+    "scramble": "rrmpie"
+  },
+  {
+    "frequency": 41.583745,
+    "word": "safety",
+    "hint": "n\tThe condition or feeling of being safe; security; certainty. ",
+    "scramble": "afesty"
+  },
+  {
+    "frequency": 3.175136,
+    "word": "scroll",
+    "hint": "n\tA roll of paper or parchment; a writing formed into a roll. ",
+    "scramble": "sloclr"
+  },
+  {
+    "frequency": 237.748931,
+    "word": "school",
+    "hint": "n\t(Canada, US) An institution dedicated to teaching and learning; an educational institution. ",
+    "scramble": "hslooc"
+  },
+  {
+    "frequency": 19.959667,
+    "word": "priest",
+    "hint": "n\tA religious clergyman (clergywoman, clergyperson) who is trained to perform services or sacrifices at a church or temple. ",
+    "scramble": "petirs"
+  },
+  {
+    "frequency": 63.367804,
+    "word": "actual",
+    "hint": "adj\t(chiefly theology) relating to a person's acts or deeds; active, practical ",
+    "scramble": "actula"
+  },
+  {
+    "frequency": 13.994304,
+    "word": "avenue",
+    "hint": "n\tA broad street, especially one bordered by trees or, in cities laid out in a grid pattern, one that is on a particular side of the city or that runs in a particular direction. ",
+    "scramble": "uaeven"
+  }
+]
