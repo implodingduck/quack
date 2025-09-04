@@ -6,7 +6,7 @@
    "homepage": "https://implodingduck.github.io/quack",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/quack",
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
